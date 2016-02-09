@@ -2,7 +2,7 @@
 
 [![Buy Me a Cup of Coffee](https://img.shields.io/badge/%E2%98%95-buy%20me%20a%20coffee-blue.svg)](https://ko-fi.com?i=1056JIZ4CXX0X)
 
-Simple shake experiment written in Meteor
+Simple shake experiment written in Meteor. [See it live](http://capsulecat.github.io/MagicEightBall/).
 
 ## Run
 
